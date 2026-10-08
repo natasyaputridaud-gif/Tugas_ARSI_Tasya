@@ -1,0 +1,18 @@
+{
+  "name": "sistem-manajemen-kos",
+  "version": "1.0.0",
+  "description": "Aplikasi web Sistem Manajemen Kos",
+  "main": "server.js",
+  "scripts": {
+    "test": "node test/smoke.js",
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
